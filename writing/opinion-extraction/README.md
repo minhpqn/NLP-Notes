@@ -169,6 +169,7 @@ cat sample.txt | iconv -f UTF-8 -t EUC-JP | juman -e2 -B | knp | iconv -f EUC-JP
 Nếu bạn ra kết quả tương tự như sau thì bạn đã hoàn tất việc cài đặt.
 
 \# S-ID:1 KNP:3.01-CF1.0 DATE:2017/02/04 SCORE:-37.91003
+
 子どもは──┐　
 リンゴが──┤　
         すきだ。
