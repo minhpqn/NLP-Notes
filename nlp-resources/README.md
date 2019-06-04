@@ -1,9 +1,9 @@
 # NLP Resources
 
-## Japanese NLP
+Resources for Natural Language Processing
 
-### Softwares/Tools
+## Machine Learning Resources
 
-Japanese word segmentation:
+- [Hyperparameter Optimization in Python](https://github.com/hyperopt)
 
-- [JapaneseTokenizer](https://github.com/Kensuke-Mitsuzawa/JapaneseTokenizers), by Kensuke-Mitsuzawa
+
